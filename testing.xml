@@ -1,0 +1,5 @@
+<window title="Test XSLT page">
+	<menubar> 
+		<label value="Home"></label>
+	</menubar>
+</window>
